@@ -1,3 +1,6 @@
-Hello World
+﻿Hello World
+
 Edição no arquivo
 Pull e push
+
+Estou editando do meu repositório local
